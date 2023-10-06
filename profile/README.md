@@ -1,2 +1,2 @@
-## Welcome to SocialX Indonesia 👋
+## Welcome to SocialX 👋
 Hope you enjoy our open repository :blush:
